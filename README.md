@@ -10,4 +10,5 @@ To download the .py file. then manually move it to the folder where you want to 
 
 ## Prerequisites:
 
--Python Installed in the system
+- Python Installed in the system.
+- Git installed.
